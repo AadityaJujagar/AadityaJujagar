@@ -7,6 +7,9 @@ Full-Stack MERN Developer • JavaScript & TypeScript • Open to Collaboration
   <a href="https://linkedin.com/in/aadityajujagar">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
+  <a href="https://wa.me/919130656629">
+    <img src="https://img.icons8.com/color/40/whatsapp--v1.png" />
+  </a>
   <a href="https://github.com/AadityaJujagar">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
@@ -17,22 +20,7 @@ Full-Stack MERN Developer • JavaScript & TypeScript • Open to Collaboration
 
 ---
 
-<table width="100%">
-  <tr>
-    <td align="left">
-      <h2>👨‍💻 About Me</h2>
-    </td>
-    <td align="right">
-      <a href="tel:+919130656629">
-        <img src="https://img.icons8.com/color/40/phone.png" />
-      </a>
-      &nbsp;&nbsp;
-      <a href="https://wa.me/919130656629">
-        <img src="https://img.icons8.com/color/40/whatsapp--v1.png" />
-      </a>
-    </td>
-  </tr>
-</table>
+<h2>👨‍💻 About Me</h2>    
 
 - 🚀 Full-stack MERN developer with **2 years of hands-on experience**
 - 🧠 Strong in **React, Node.js, Express, MongoDB**
