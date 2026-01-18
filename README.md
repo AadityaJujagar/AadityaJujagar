@@ -10,6 +10,9 @@ Full-Stack MERN Developer • JavaScript & TypeScript • Open to Collaboration
   <a href="https://wa.me/919130656629" target="_blank">
     <img src="https://www.flaticon.com/free-icons/whatsapp" />
   </a>
+  <a href="https://www.flaticon.com/free-icons/whatsapp" title="whatsapp icons">
+    Whatsapp icons created by Ruslan Babkin - Flaticon
+  </a>
   <a href="https://github.com/AadityaJujagar" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
