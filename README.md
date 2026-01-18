@@ -13,6 +13,9 @@ Full-Stack MERN Developer • JavaScript & TypeScript • Open to Collaboration
   <a href="https://github.com/AadityaJujagar">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
+  <a href="mailto:aadityajujagar@email.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
   <a href="https://instagram.com/__aaadityaaa_">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
@@ -31,7 +34,7 @@ Full-Stack MERN Developer • JavaScript & TypeScript • Open to Collaboration
 ---
 
 <p align="center">
-  📞 <b>Hit me a call:</b> <a href="tel:+919130656629">+91 9130656629</a>
+  📞 <b>Hit me a call:</b> <a href="tel:+919130656629">+91 9130656629</a> OR <b>email me on: </b> <a href="mailto:aadityajujagar@gmail.com">aadityajujagar@gmail.com</a>
 </p>
 
 ---
