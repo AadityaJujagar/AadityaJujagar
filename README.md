@@ -30,6 +30,12 @@ Full-Stack MERN Developer • JavaScript & TypeScript • Open to Collaboration
 
 ---
 
+<p align="center">
+  📞 <b>Hit me a call:</b> <a href="tel:+919130656629">+91 9130656629</a>
+</p>
+
+---
+
 ## 🧩 Tech Stack
 
 ### Frontend
