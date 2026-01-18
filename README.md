@@ -17,40 +17,28 @@ Full-Stack MERN Developer • JavaScript & TypeScript • Open to Collaboration
 
 ---
 
-## 👨‍💻 About Me
+<table width="100%">
+  <tr>
+    <td align="left">
+      <h2>👨‍💻 About Me</h2>
+    </td>
+    <td align="right">
+      <a href="tel:+919130656629">
+        <img src="https://img.icons8.com/color/40/phone.png" />
+      </a>
+      &nbsp;&nbsp;
+      <a href="https://wa.me/919130656629">
+        <img src="https://img.icons8.com/color/40/whatsapp--v1.png" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 - 🚀 Full-stack MERN developer with **2 years of hands-on experience**
 - 🧠 Strong in **React, Node.js, Express, MongoDB**
 - 🌱 Currently leveling up in **TypeScript, PostgreSQL & Next.js**
 - 🛠️ I enjoy building **scalable APIs & clean frontend architectures**
 - 🤝 Open to collaborating on meaningful full-stack products
-
----
-
-<h2 align="center">📲 Let’s Connect Instantly</h2>
-
-<p align="center">
-  Open for calls, collaborations & quick discussions
-</p>
-
-<table align="center" width="60%">
-  <tr>
-    <td align="left">
-      <a href="tel:+phno">
-        <img src="https://img.icons8.com/color/64/phone.png" />
-      </a>
-    </td>
-    <td align="right">
-      <a href="https://wa.me/phno">
-        <img src="https://img.icons8.com/color/64/whatsapp--v1.png" />
-      </a>
-    </td>
-  </tr>
-</table>
-
-<p align="center">
-  <code>+91-phno</code>
-</p>
 
 ---
 
