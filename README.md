@@ -8,7 +8,7 @@ Full-Stack MERN Developer • JavaScript & TypeScript • Open to Collaboration
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   <a href="https://wa.me/919130656629" target="_blank">
-    <img src="https://img.icons8.com/?size=50&id=16713&format=png&color=000000" />
+    <img src="https://img.icons8.com/?size=50&id=16713&format=png&color=3B3B3B" />
   </a>
   <a href="https://github.com/AadityaJujagar" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" />
