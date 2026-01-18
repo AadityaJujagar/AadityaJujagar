@@ -4,19 +4,19 @@ Full-Stack MERN Developer • JavaScript & TypeScript • Open to Collaboration
 </h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/aadityajujagar">
+  <a href="https://linkedin.com/in/aadityajujagar" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="https://wa.me/919130656629">
+  <a href="https://wa.me/919130656629" target="_blank">
     <img src="https://img.icons8.com/color/50/whatsapp--v.png" />
   </a>
-  <a href="https://github.com/AadityaJujagar">
+  <a href="https://github.com/AadityaJujagar" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
-  <a href="mailto:aadityajujagar@email.com">
+  <a href="mailto:aadityajujagar@email.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
-  <a href="https://instagram.com/__aaadityaaa_">
+  <a href="https://instagram.com/__aaadityaaa_" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
 </p>
@@ -25,7 +25,7 @@ Full-Stack MERN Developer • JavaScript & TypeScript • Open to Collaboration
 
 <h2>👨‍💻 About Me</h2>    
 
-- 🚀 Full-stack MERN developer with **2 years of hands-on experience**
+- 🚀 Full-stack MERN developer @<a hred="https://thedatamaster.in" target="_blank"><u>Data Master Consulting</u></a> with **2 years of hands-on experience**
 - 🧠 Strong in **React, Node.js, Express, MongoDB**
 - 🌱 Currently leveling up in **TypeScript, PostgreSQL & Next.js**
 - 🛠️ I enjoy building **scalable APIs & clean frontend architectures**
