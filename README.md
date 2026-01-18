@@ -4,16 +4,13 @@ Full-Stack MERN Developer • JavaScript & TypeScript • Open to Collaboration
 </h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/yourLinkedIn">
+  <a href="https://linkedin.com/in/aadityajujagar">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   <a href="https://github.com/AadityaJujagar">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
-  <a href="https://wa.me/yourNumber">
-    <img src="https://skillicons.dev/icons?i=whatsapp" />
-  </a>
-  <a href="https://instagram.com/yourUsername">
+  <a href="https://instagram.com/__aaadityaaa_">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
 </p>
@@ -22,11 +19,35 @@ Full-Stack MERN Developer • JavaScript & TypeScript • Open to Collaboration
 
 ## 👨‍💻 About Me
 
-- 🚀 Full-stack MERN developer with **1.5+ years of hands-on experience**
+- 🚀 Full-stack MERN developer with **2 years of hands-on experience**
 - 🧠 Strong in **React, Node.js, Express, MongoDB**
 - 🌱 Currently leveling up in **TypeScript, PostgreSQL & Next.js**
 - 🛠️ I enjoy building **scalable APIs & clean frontend architectures**
 - 🤝 Open to collaborating on meaningful full-stack products
+
+---
+
+---
+
+<h2 align="center">📲 Let’s Connect Instantly</h2>
+
+<p align="center">
+  Open for calls, collaborations & quick discussions
+</p>
+
+<p align="center">
+  <a href="tel:+919130656629">
+    <img src="https://img.icons8.com/color/64/phone.png" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://wa.me/919130656629">
+    <img src="https://img.icons8.com/color/64/whatsapp--v1.png" />
+  </a>
+</p>
+
+<p align="center">
+  <code>+91-9130656629</code>
+</p>
 
 ---
 
