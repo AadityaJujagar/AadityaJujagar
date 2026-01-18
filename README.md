@@ -27,8 +27,6 @@ Full-Stack MERN Developer • JavaScript & TypeScript • Open to Collaboration
 
 ---
 
----
-
 <h2 align="center">📲 Let’s Connect Instantly</h2>
 
 <p align="center">
