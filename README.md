@@ -67,23 +67,3 @@ Full-Stack MERN Developer • JavaScript & TypeScript • Open to Collaboration
 </p>
 
 ---
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AadityaJujagar&show_icons=true&theme=shadow_blue&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AadityaJujagar&theme=shadow_blue&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AadityaJujagar&layout=compact&theme=shadow_blue&hide_border=true" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=AadityaJujagar&icon=3&color=0" />
-</p>
