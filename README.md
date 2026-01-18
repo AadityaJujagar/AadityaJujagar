@@ -33,18 +33,23 @@ Full-Stack MERN Developer • JavaScript & TypeScript • Open to Collaboration
   Open for calls, collaborations & quick discussions
 </p>
 
-<p align="center">
-  <a href="tel:+919130656629">
-    <img src="https://img.icons8.com/color/64/phone.png" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://wa.me/919130656629">
-    <img src="https://img.icons8.com/color/64/whatsapp--v1.png" />
-  </a>
-</p>
+<table align="center" width="60%">
+  <tr>
+    <td align="left">
+      <a href="tel:+phno">
+        <img src="https://img.icons8.com/color/64/phone.png" />
+      </a>
+    </td>
+    <td align="right">
+      <a href="https://wa.me/phno">
+        <img src="https://img.icons8.com/color/64/whatsapp--v1.png" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
-  <code>+91-9130656629</code>
+  <code>+91-phno</code>
 </p>
 
 ---
