@@ -31,7 +31,7 @@ Full-Stack MERN Developer • JavaScript & TypeScript • Open to Collaboration
 ---
 
 <p align="center">
-  📞 <b>Hit me a call:</b> <a href="tel:+919130656629">+91 9130656629</a>   <b>/</b>   💬 <b>email me on: </b> <a href="mailto:aadityajujagar@gmail.com">aadityajujagar@gmail.com</a>
+  📞 <b>Hit me a call:</b> <a href="tel:+919130656629">+91 9130656629</a>   <b>/</b>   💬 <b>Email me on: </b> <a href="mailto:aadityajujagar@gmail.com">aadityajujagar@gmail.com</a>
 </p>
 
 ---
