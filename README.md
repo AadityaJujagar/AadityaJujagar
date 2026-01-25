@@ -19,9 +19,9 @@ Full-Stack MERN Developer • JavaScript & Typescript • Open to Collaboration
 
 <h2>👨‍💻 About Me</h2>    
 
-- 🚀 Full-stack MERN developer @<a hred="https://thedatamaster.in" target="_blank"><b>Data Master Consulting</b></a> with **2 years of hands-on experience**
-- 🧠 Strong in **React.js, Node.js, Express.js, MongoDB**
-- 🌱 Currently leveling up in **Typescript, PostgreSQL & Next.js**
+- 🚀 Full-Stack Developer @<a hred="https://thedatamaster.in" target="_blank"><b>Data Master Consulting</b></a> with **2+ years of hands-on experience**
+- 🧠 Strong in **React.js, Node.js, Express.js, and MongoDB**
+- 🌱 Currently leveling up in **Typescript, Next.js, Prisma, and PostgreSQL**
 - 🛠️ I enjoy building **scalable APIs & clean frontend architectures**
 - 🤝 Open to collaborating on meaningful full-stack products
 
