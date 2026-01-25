@@ -13,9 +13,6 @@ Full-Stack MERN Developer • JavaScript & Typescript • Open to Collaboration
   <a href="https://github.com/AadityaJujagar" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
-  <a href="https://instagram.com/__aaadityaaa_" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" />
-  </a>
 </p>
 
 ---
