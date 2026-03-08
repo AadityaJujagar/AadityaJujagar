@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aaditya Jujagar</h1>
 <h3 align="center">
-Software Developer • JavaScript & Typescript • Open to Collaboration
+Full-Stack Developer • JavaScript & Typescript • Open to Collaboration
 </h3>
 
 <p align="center">
