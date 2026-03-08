@@ -19,7 +19,7 @@ Full-Stack MERN Developer • JavaScript & Typescript • Open to Collaboration
 
 <h2>👨‍💻 About Me</h2>    
 
-- 🚀 Full-Stack Developer @<a hred="https://loantap.in" target="_blank"><b>LoanTap FinTech</b></a> with **2+ years of hands-on experience**
+- 🚀 Full-Stack Developer @<a hred="https://loantap.in" target="_blank"><b>LoanTap</b></a> with **2+ years of hands-on experience**
 - 🧠 Strong in **React.js, Node.js, Express.js, and MongoDB**
 - 🌱 Currently leveling up in **Typescript, Next.js, Prisma, and PostgreSQL**
 - 🛠️ I enjoy building **scalable APIs & clean frontend architectures**
